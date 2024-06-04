@@ -8,3 +8,5 @@
 - Checkpoints
 - Goal : Reach F1 score > 0.6
 - Reached a F1 Score of 0.87
+
+[2023]
